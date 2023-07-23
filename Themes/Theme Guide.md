@@ -6,7 +6,7 @@ All theme files are loaded from `%LOCALAPPDATA%\Packages\Microsoft.MinecraftUWP_
 ***Furthermore, remember to add the `ALL_APPLICATION_PACKAGES` security group in the file properties or else the file will not load!!*** 
 
 ## The 4 theme sections
-There are 4 main sections to a theme file. These are the metadata (the "meta" object), the icons, variables, and of course colors. All of these sections are technically optional, however without all of them the theme is incomplete.
+There are 4 main sections to a theme file. These are the metadata (the "meta" object), the icons, variables, textures, and of course colors. All of these sections are technically optional, however without all of them (except textures) the theme is incomplete.
 
 ## The format
 Themes are JSON files with comment support. This means you can use `// Comment` or `/* Comment */` in your theme file. This can help users configure your theme file to their liking. The file will be a JSON object, so all of your theme data must be inside of brackets `{ /* Theme data */ }`.
