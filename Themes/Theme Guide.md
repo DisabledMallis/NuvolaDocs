@@ -83,3 +83,6 @@ Example `textures` block:
     ]
 }
 ```
+
+## Testing and debugging
+Nuvola has a ThemeDebugger module (found under the Render category) that displays any errors and warnings a theme had while loading.
