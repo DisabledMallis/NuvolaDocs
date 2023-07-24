@@ -97,7 +97,9 @@
         "TOGGLE_ON": "#1F8AFFFF",
         "TOGGLE_OFF": "#4C4C4EFF",
         "TOGGLE_NOTCH": "#FFFFFFFF",
-        "TOGGLE_NOTCH_SHADOW": "#0000007F"
+        "TOGGLE_NOTCH_SHADOW": "#0000007F",
+        "TOOLTIP_COLOR": "#0000007F",
+        "TOOLTIP_TEXT": "#DFDFDFFF"
     },
     "textures": [
         {
